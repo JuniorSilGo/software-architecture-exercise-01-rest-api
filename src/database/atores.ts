@@ -1,0 +1,17 @@
+export const atores = [
+  { id: 1, nome: 'Marlon Brando', nascimento: '1924-04-03', nacionalidade: 'Americano' },
+  { id: 2, nome: 'Al Pacino', nascimento: '1940-04-25', nacionalidade: 'Americano' },
+  { id: 3, nome: 'Keanu Reeves', nascimento: '1964-09-02', nacionalidade: 'Canadense' },
+  { id: 4, nome: 'Carrie-Anne Moss', nascimento: '1967-08-21', nacionalidade: 'Canadense' },
+  { id: 5, nome: 'Tom Hardy', nascimento: '1977-09-15', nacionalidade: 'Britânico' },
+  { id: 6, nome: 'Charlize Theron', nascimento: '1975-08-07', nacionalidade: 'Sul-africana' },
+  { id: 7, nome: 'Christian Bale', nascimento: '1974-01-30', nacionalidade: 'Britânico' },
+  { id: 8, nome: 'Michael Caine', nascimento: '1933-03-14', nacionalidade: 'Britânico' },
+  { id: 9, nome: 'Leonardo DiCaprio', nascimento: '1974-11-11', nacionalidade: 'Americano' },
+  { id: 10, nome: 'Joseph Gordon-Levitt', nascimento: '1981-02-17', nacionalidade: 'Americano' },
+  { id: 11, nome: 'Edward Norton', nascimento: '1969-08-18', nacionalidade: 'Americano' },
+  { id: 12, nome: 'Brad Pitt', nascimento: '1963-12-18', nacionalidade: 'Americano' },
+  { id: 13, nome: 'Helena Bonham Carter', nascimento: '1966-05-26', nacionalidade: 'Britânica' },
+  { id: 14, nome: 'Elijah Wood', nascimento: '1981-01-28', nacionalidade: 'Americano' },
+  { id: 15, nome: 'Ian McKellen', nascimento: '1939-05-25', nacionalidade: 'Britânico' },
+];
